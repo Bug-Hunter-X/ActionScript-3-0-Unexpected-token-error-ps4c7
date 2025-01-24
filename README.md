@@ -1,0 +1,1 @@
+This repository contains an example of an unexpected token error in ActionScript 3.0 and its solution. The `bug.as` file demonstrates the error, while `bugSolution.as` provides a corrected version of the code.
